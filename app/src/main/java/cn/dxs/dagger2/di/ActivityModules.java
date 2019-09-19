@@ -1,5 +1,6 @@
-package cn.dxs.dagger2;
+package cn.dxs.dagger2.di;
 
+import cn.dxs.dagger2.MainActivity;
 import dagger.Module;
 import dagger.android.ContributesAndroidInjector;
 

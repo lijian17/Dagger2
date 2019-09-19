@@ -1,5 +1,6 @@
 package cn.dxs.dagger2;
 
+import cn.dxs.dagger2.di.DaggerCookAppComponent;
 import dagger.android.AndroidInjector;
 import dagger.android.DaggerApplication;
 
