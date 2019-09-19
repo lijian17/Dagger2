@@ -1,7 +1,8 @@
-package cn.dxs.dagger2;
+package cn.dxs.dagger2.di;
 
 import javax.inject.Singleton;
 
+import cn.dxs.dagger2.App;
 import dagger.Component;
 import dagger.android.AndroidInjector;
 import dagger.android.support.AndroidSupportInjectionModule;

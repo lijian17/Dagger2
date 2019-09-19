@@ -1,4 +1,4 @@
-package cn.dxs.dagger2;
+package cn.dxs.dagger2.di;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
